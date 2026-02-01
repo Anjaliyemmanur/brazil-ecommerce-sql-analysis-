@@ -49,8 +49,7 @@ The project is structured into six major analytical modules:
 
 ### 5️⃣ Delivery & Logistics Performance
 - Delivery time analysis vs estimated delivery dates
-- States with fastest and slowest deliveries
-- Freight cost comparison across states
+- States with fastest and slowest deliveries.
 
 ### 6️⃣ Payment Behavior Analysis
 - Month-on-month order trends by payment type
@@ -62,9 +61,14 @@ The project is structured into six major analytical modules:
 - **GitHub** for version control and project documentation
 
 ## Business Interpretation and Insights
-
+- The business shows strong growth over time, with clear seasonality where mid-year months experience higher order volumes.
+- Customer demand and revenue are geographically concentrated, with certain states (especially SP) contributing a large share of orders and revenue.
+- Purchasing behavior varies by time and region, with afternoons being peak ordering hours and noticeable differences in average order value across states.
+- Customers strongly prefer digital and convenient payment methods, especially credit cards and low-installment options.
 
 ## Business Actions
-
-
+- Use historical trends and seasonality to improve inventory planning and demand forecasting, especially for peak months.
+- Optimize logistics and delivery capacity in high-demand states while exploring targeted growth strategies in underperforming regions.
+-Align marketing campaigns and system operations with peak ordering times to maximize conversions and minimize disruptions.
+-Prioritize and enhance popular payment methods and low-installment options to improve checkout experience and customer satisfaction.
 
