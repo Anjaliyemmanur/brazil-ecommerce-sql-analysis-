@@ -69,6 +69,7 @@ The project is structured into six major analytical modules:
 ## Business Actions
 - Use historical trends and seasonality to improve inventory planning and demand forecasting, especially for peak months.
 - Optimize logistics and delivery capacity in high-demand states while exploring targeted growth strategies in underperforming regions.
--Align marketing campaigns and system operations with peak ordering times to maximize conversions and minimize disruptions.
--Prioritize and enhance popular payment methods and low-installment options to improve checkout experience and customer satisfaction.
+- Align marketing campaigns and system operations with peak ordering times to maximize conversions and minimize disruptions.
+- Prioritize and enhance popular payment methods and low-installment options to improve checkout experience and customer satisfaction.
+
 
