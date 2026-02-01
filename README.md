@@ -56,8 +56,8 @@ The project is structured into six major analytical modules:
 - Analysis of payment installments usage
 
 ## 🛠️ Tools & Technologies
-- **SQL** (Joins, CTEs, Window Functions, Aggregations, Date Functions)
-- **Relational Databases** (MySQL / PostgreSQL compatible)
+- **SQL**, (Joins, CTEs, Window Functions, Aggregations, Date Functions)
+-  **Bigquery**- For doing the project
 - **GitHub** for version control and project documentation
 
 ## Business Interpretation and Insights
