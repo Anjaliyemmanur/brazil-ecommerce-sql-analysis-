@@ -55,6 +55,13 @@ group by c.customer_state
 order by avg_value
 limit 5)
 
+Insights- Order value grew by ~137% from 2017 to 2018 (Jan–Aug), driven by a sharp increase in order volume, showing rapid market expansion.
+Revenue is geographically concentrated, with SP contributing the highest total order value, while some states show higher average order values despitelower volumes.
+Significant regional variation in customer purchasing behavior suggests differences in demand intensity and spending capacity across states.
+
+Recommendations-Improve logistics and delivery capacity so the system can handle growing order volumes without delays.
+Use different strategies for different states.Use past sales and regional trends to plan inventory better, forecast demand accurately, and set smarter prices.
+
 
 
   
