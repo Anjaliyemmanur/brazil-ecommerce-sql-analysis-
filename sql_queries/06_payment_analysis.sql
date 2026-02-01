@@ -22,6 +22,6 @@ count(order_id) as num_orders,
 from `targetsql.payments`
 where payment_installments >= 1
 group by payment_installments
-order by num_orders DESC
+order by num_orders desc
 
 
