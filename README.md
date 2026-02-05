@@ -25,6 +25,8 @@ The dataset provides a comprehensive view of Target’s Brazilian e-commerce eco
 - **sellers** – Seller identifiers and seller location details
 - **order_reviews** – Customer review scores and feedback related to completed orders
 
+**Dataset**:https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb
+
 ## 🔍 Key Areas of Analysis
 The project is structured into six major analytical modules:
 
