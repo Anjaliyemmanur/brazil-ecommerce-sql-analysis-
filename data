@@ -1,3 +1,16 @@
 This project uses a dataset consisting of 8 relational tables containing customer, transaction, and product information.
 
+customers – Customer identifiers and location details (city, state, zip code)
+geolocation – Mapping of zip codes to geographical coordinates, cities, and states
+orders – Order-level information including purchase timestamps, order status, delivery dates, and estimated delivery dates
+order_items – Item-level details such as product price and freight value for each order
+payments – Payment method, payment installments, and total payment value per order
+products – Product attributes and category information
+sellers – Seller identifiers and seller location details
+order_reviews – Customer review scores and feedback related to completed orders.
+
+You can download the dataset from Google Drive:
+
+🔗 https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb 
+
 
