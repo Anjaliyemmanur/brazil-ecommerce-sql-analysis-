@@ -16,7 +16,7 @@ Assuming the role of a **Data Analyst at Target**, the goal of this analysis is 
 
 ## 📂 Dataset Description
 The dataset provides a comprehensive view of Target’s Brazilian e-commerce ecosystem and includes information across multiple dimensions:
- -**customers** – Customer identifiers and location details (city, state, zip code)
+- **customers** – Customer identifiers and location details (city, state, zip code)
 - **geolocation** – Mapping of zip codes to geographical coordinates, cities, and states
 - **orders** – Order-level information including purchase timestamps, order status, delivery dates, and estimated delivery dates
 - **order_items** – Item-level details such as product price and freight value for each order
